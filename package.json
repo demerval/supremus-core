@@ -1,0 +1,29 @@
+{
+  "name": "supremus-core",
+  "version": "1.0.0",
+  "description": "Supremus Core",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demerval/supremus-core.git"
+  },
+  "keywords": [
+    "Supremus"
+  ],
+  "author": "Demerval de Souza Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demerval/supremus-core/issues"
+  },
+  "homepage": "https://github.com/demerval/supremus-core#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "express": "^4.16.3",
+    "jsonwebtoken": "^8.2.1",
+    "moment": "^2.22.1",
+    "node-firebird": "^0.8.4"
+  }
+}
