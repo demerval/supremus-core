@@ -21,7 +21,7 @@
   "homepage": "https://github.com/demerval/supremus-core#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
-    "express": "^4.16.3",
+    "express": "^4.17.3",
     "jsonwebtoken": "^8.2.1",
     "moment": "^2.22.1",
     "node-firebird": "^0.8.4"
